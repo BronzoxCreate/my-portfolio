@@ -1,2 +1,1 @@
-# my-portfolio
-My website portfolio
+I've made this website to store my skills in coding.
